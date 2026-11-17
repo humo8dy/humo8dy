@@ -21,6 +21,7 @@
 ### Profiles & Links
 * **GitHub:** [@humo8dy](https://github.com/humo8dy)
 * **CyberTalents:** [HUMO8DY](https://cybertalents.com/members/HUMO8DY/profile)
+* **LinkedIn:** [Hussain Mohamed](https://www.linkedin.com/in/hussain-mohamed-eg/)
 <!--
 **humo8dy/humo8dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
