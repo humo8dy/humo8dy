@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hussain Mohamed Mohammadi (HUMO8DY)
 
-**Hussain Mohamed** (also known online by the handles **HUMO8DY** and **zosar**) is a **Mobile Core Network Engineer** and **Cybersecurity / Digital Forensics Enthusiast** based in Egypt.
+**Hussain Mohamed** (also known online by the handles **HUMO8DY** and **zosar**) is a **Mobile Core Network Engineer** and **Cybersecurity Enthusiast** based in Egypt.
 
 ---
 
